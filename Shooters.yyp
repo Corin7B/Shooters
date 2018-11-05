@@ -191,11 +191,27 @@
             }
         },
         {
+            "Key": "c5f7beea-6f73-49ad-acb0-c35fbc35794f",
+            "Value": {
+                "id": "30f83832-4df2-46f3-bd7a-d8d5de199094",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "555315cf-4d27-4916-ac37-940a6b7ad7f2",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d27d8605-2da4-45d6-90dd-eb324d62440e",
+            "Value": {
+                "id": "31fb7217-678c-4b06-ab82-775d51824ba1",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
